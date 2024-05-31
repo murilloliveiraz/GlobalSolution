@@ -24,7 +24,7 @@ Este repositório contém o código-fonte e a documentação para um projeto de 
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/SeuUsuario/ProjetoControleMare.git
+   git clone https://github.com/murilloliveiraz/GlobalSolution/tree/main/EdgeComputing
    ```
 2. Instale as bibliotecas necessárias no Arduino IDE:
    - LiquidCrystal
