@@ -1,8 +1,10 @@
 # Projeto de Controle de Maré
 
-<img src="https://github.com/SeuUsuario/ProjetoControleMare/blob/main/circuit_design.png">
+<img src="https://github.com/murilloliveiraz/GlobalSolution/blob/main/EdgeComputing/circuit.png">
 
 Este repositório contém o código-fonte e a documentação para um projeto de controle de maré. O projeto utiliza um sensor ultrassônico para medir a altura da maré, exibe as informações em um display LCD e aciona um buzzer em caso de perigo.
+
+🔗 Circuito no TinkerCad: https://www.tinkercad.com/things/9omg3dVk7dd-global-solution-fiap?sharecode=a2v0QfoG7mpYKrt5R-Qqo7XeN1Uewlqb1aoiegAbvFg
 
 ## Funcionalidades
 
