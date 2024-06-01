@@ -1,0 +1,48 @@
+footer {
+  background: #115779;
+  display: flex;
+  justify-content: space-around;
+  color: #fff;
+  align-items: center;
+  height: 300px;
+}
+
+.logo img {
+  width: 200px;
+}
+
+.logo {
+  width: 400px;
+}
+
+  footer ul {
+    list-style: none;
+  }
+
+  footer ul li {
+      display: flex;
+      align-items: center;
+      gap: 20px;
+  }
+  
+  footer ul li a {
+      color: #fff;
+      text-decoration: none;
+      transition: all 300ms;
+  }
+
+  footer div {
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+      align-items: flex-start;
+      justify-content: flex-start;
+  }
+
+  footer svg {
+      width: 30px;
+  }
+
+  footer a:hover {
+      scale: 1.05;
+  }

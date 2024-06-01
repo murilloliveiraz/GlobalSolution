@@ -1,0 +1,35 @@
+#beneficios h1 {
+    font-size: 32px;
+    text-align: center;
+}
+
+.beneficios-cards {
+    margin-top: 50px;
+    width: 1300px;
+    gap: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.beneficios-cards .card {
+    align-items: center;
+    justify-content: flex-start;
+    padding: 0px 20px;
+}
+
+.beneficios-cards .card .card-text {
+    text-align: left;
+}
+
+.beneficios-cards .card img {
+    height: 280px;
+}
+
+.beneficios-cards div h3 {
+    font-size: 16px;
+}
+
+.beneficios-cards div p {
+    font-size: 14px;
+}

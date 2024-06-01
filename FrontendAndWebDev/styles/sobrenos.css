@@ -1,0 +1,20 @@
+#sobre-nos {
+    display: flex;
+    width: 1300px;
+    justify-content: space-around;
+    align-items: center;
+    text-align: justify;
+}
+
+.sobre-text {
+    width: 50%;
+}
+
+.sobre-text h1 {
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+
+aside img {
+    width: 400px;
+}
