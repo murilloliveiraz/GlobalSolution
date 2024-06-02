@@ -6,6 +6,10 @@ header {
     align-items: center;
 }
 
+header img{
+    width: 180px;
+}
+
 header nav ul {
     list-style: none;
     display: flex;
