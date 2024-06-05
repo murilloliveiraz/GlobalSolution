@@ -30,9 +30,36 @@ const criarCards = (viagem) => {
 const carregarCards = async () => {
     const viagens = await getViagens()
 
-    for (let viagem of viagens){
+    for (let viagem of viagens) {
         criarCards(viagem)
     }
 }
 
+const menuResponsivo = async () => {
+    const btnOpen = document.querySelector('.open-menu')
+    const btnClose = document.querySelector('.close-menu')
+    const menu = document.querySelector('.nav-header-resp')
+
+    //fecha o header quando clicar em alguma rota dele
+    document.querySelectorAll('.nav-header-resp ul li a').forEach(a => {
+        a.addEventListener('click', () => {
+            menu.style.display = 'none'
+            btnOpen.style.display = 'block'
+            btnClose.style.display = 'none'
+        })
+    })
+
+    btnOpen.addEventListener('click', () => {
+        menu.style.display = 'block'
+        btnOpen.style.display = 'none'
+        btnClose.style.display = 'block'
+    })
+
+    btnClose.addEventListener('click', () => {
+        menu.style.display = 'none'
+        btnOpen.style.display = 'block'
+        btnClose.style.display = 'none'
+    })
+}
 await carregarCards()
+menuResponsivo()
