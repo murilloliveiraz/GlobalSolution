@@ -18,3 +18,23 @@
 aside img {
     width: 400px;
 }
+
+@media screen and (max-width:480px) {
+    #sobre-nos {
+        width: 320px;
+        height: 700px;
+        flex-direction: column;
+    }
+
+    .sobre-text{
+        width: 100%;
+    }
+
+    .sobre-text h1 {
+        font-size: 18px;
+    }
+
+    aside img {
+        width: 320px;
+    }
+}

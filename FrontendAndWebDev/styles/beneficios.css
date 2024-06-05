@@ -33,3 +33,20 @@
 .beneficios-cards div p {
     font-size: 14px;
 }
+
+@media screen and (max-width:480px) {
+    #beneficios h1 {
+        font-size: 22px;
+        text-align: center;
+    }
+    
+    .beneficios-cards {
+        margin-top: 50px;
+        width: 320px;
+        gap: 30px;
+    }
+    
+    .beneficios-cards .card img {
+        height: 250px;
+    }
+}

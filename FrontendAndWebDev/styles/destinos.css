@@ -106,3 +106,21 @@
     background: #3d55cc;
     color: #fff;
 }
+
+@media screen and (max-width:480px){
+    
+    #destinos h1 {
+        font-size: 18px;
+    }
+
+    .cards-carousel {
+        height: 500px;
+    }
+    
+    .card {
+        width: 320px;
+        display: flex;
+        gap: 20px;
+        height: 450px;
+    }
+}

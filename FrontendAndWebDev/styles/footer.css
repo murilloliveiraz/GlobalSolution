@@ -46,3 +46,38 @@ footer {
   footer a:hover {
       scale: 1.05;
   }
+
+  @media screen and (max-width:480px) {
+    footer {
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 600px;
+      gap: 40px;
+    }
+    
+    .logo img {
+      width: 300px;
+    }
+    
+    .logo {
+      width: 320px;
+      display: flex;
+      justify-content: flex-start;
+      text-align: justify;
+      align-items: center;
+    }
+    
+      footer ul li {
+          gap: 30px;
+      }
+      
+     footer .apoio ul {
+        display: flex;
+        gap: 20px;
+     }
+
+    .apoio ul li {
+      gap: 10px;
+    }
+  }
