@@ -19,6 +19,7 @@ def getAllViagens():
                 'qtd_noites': viagem[3],
                 'avaliacao_media': viagem[4],
                 'imagem': viagem[5],
+                'preco': viagem[6],
                 'tags': tagsDAO.getTagsByIdViagem(viagem[0])
             })
         
