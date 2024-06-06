@@ -145,5 +145,13 @@
     #nossos-parceiros h1{
       font-size: 22px;
       text-align: center;
-  }
+    }
+
+    .marquee {
+      width: 330px;
+    }
+
+    .marquee--8 {
+      --marquee-item-width: 175px;
+    }
   }
