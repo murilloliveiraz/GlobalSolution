@@ -1,10 +1,12 @@
-# [Nome da Startup] - Turismo Sustentável
+# SustainTravel - Turismo Sustentável
 
-Bem-vindo ao repositório oficial do projeto [Nome da Startup], uma plataforma dedicada a promover o turismo sustentável, conectando viajantes conscientes a destinos e acomodações que priorizam práticas ecológicas e responsáveis.
+<img src="https://github.com/murilloliveiraz/GlobalSolution/blob/main/FrontendAndWebDev/assets/images/Logo.png" alt="Logo">
+
+Bem-vindo ao repositório oficial do projeto SustainTravel, uma plataforma dedicada a promover o turismo sustentável, conectando viajantes conscientes a destinos e acomodações que priorizam práticas ecológicas e responsáveis.
 
 ## Sobre o Projeto
 
-[Nome da Startup] é uma startup inovadora que visa transformar a maneira como as pessoas viajam, oferecendo experiências únicas e sustentáveis que respeitam e preservam o meio ambiente. Nossa plataforma permite que os viajantes encontrem acomodações certificadas por suas práticas sustentáveis e se envolvam em atividades que promovem a conservação ambiental e o bem-estar das comunidades locais.
+SustainTravel é uma startup inovadora que visa transformar a maneira como as pessoas viajam, oferecendo experiências únicas e sustentáveis que respeitam e preservam o meio ambiente. Nossa plataforma permite que os viajantes encontrem acomodações certificadas por suas práticas sustentáveis e se envolvam em atividades que promovem a conservação ambiental e o bem-estar das comunidades locais.
 
 ## Missão
 
@@ -44,10 +46,6 @@ Visualizamos um futuro onde o turismo sustentável não seja apenas uma opção,
 ├── StoryTelling
 └── README.md
 ```
-
-## Contato
-
-Para mais informações, visite nosso [site oficial](http://www.nomedastartup.com) ou entre em contato conosco pelo email contato@nomedastartup.com.
 
 ---
 
