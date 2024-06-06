@@ -3,10 +3,11 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    width: 100%;
 }
 
-.cards-carousel {
-    width: 1300px;
+#slider1 {
+    width: 100%;
     display: flex;
     gap: 50px;
     height: 600px;
