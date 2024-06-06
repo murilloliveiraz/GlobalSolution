@@ -1,6 +1,6 @@
-# Documentação do Escopo de Produto - [Nome da Startup]
+# Documentação do Escopo de Produto - SustainTravel
 
-Bem-vindo ao repositório oficial da documentação do escopo de produto para o projeto [Nome da Startup]. Este repositório contém todas as informações essenciais sobre a identificação do cliente, proposta da solução e backlog das funcionalidades.
+Bem-vindo ao repositório oficial da documentação do escopo de produto para o projeto SustainTravel. Este repositório contém todas as informações essenciais sobre a identificação do cliente, proposta da solução e backlog das funcionalidades.
 
 ## Índice
 
@@ -13,7 +13,7 @@ Bem-vindo ao repositório oficial da documentação do escopo de produto para o 
 
 ## Introdução
 
-Este repositório foi criado para centralizar e organizar toda a documentação relacionada ao escopo do produto da [Nome da Startup]. Aqui você encontrará detalhes sobre o cliente, a solução proposta e o backlog das funcionalidades que guiarão o desenvolvimento do nosso produto. Faça o dowload do PDF para visualizar todas as informações.
+Este repositório foi criado para centralizar e organizar toda a documentação relacionada ao escopo do produto da SustainTravel. Aqui você encontrará detalhes sobre o cliente, a solução proposta e o backlog das funcionalidades que guiarão o desenvolvimento do nosso produto. Faça o dowload do PDF para visualizar todas as informações.
 
 ## Proposta da Solução
 
