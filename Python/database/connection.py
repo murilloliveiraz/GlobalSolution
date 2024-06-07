@@ -2,6 +2,7 @@ import os
 from dotenv import load_dotenv
 import mysql.connector
 
+#Carrega as informações de acesso do banco de dados do arquivo .env
 load_dotenv()
 
 db_config = {
@@ -11,8 +12,10 @@ db_config = {
     'database': os.getenv('DB_DATABASE'),
 }
 
+#Conecta com o banco passando as informações de acesso
 db_sustaintravel = mysql.connector.connect(**db_config)
 
+#Verifica se foi conectado corretamente
 if db_sustaintravel.is_connected():
     print('Conectado ao banco de dados MySQL')
   
