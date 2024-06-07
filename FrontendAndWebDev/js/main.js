@@ -1,6 +1,6 @@
 'use strict'
 
-import { getViagens } from "./fetch.js"
+import { getViagens, getViagensJson } from "./fetch.js"
 
 
 var splide = new Splide('#slider1', {
@@ -45,8 +45,8 @@ const criarCards = (viagem) => {
     splide.mount()
 }
 
-const carregarCards = async () => {
-    const viagens = await getViagens()
+const carregarCards =  () => {
+    const viagens =  getViagensJson()
 
     for (let viagem of viagens) {
         criarCards(viagem)
