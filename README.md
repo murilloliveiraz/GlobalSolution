@@ -50,3 +50,8 @@ Visualizamos um futuro onde o turismo sustentável não seja apenas uma opção,
 ---
 
 Esperamos que você se junte a nós nesta jornada para promover um turismo mais sustentável e responsável!
+
+## Integrantes
+
+- David Murillo de Oliveira Soares (RM 559078)
+- Yasmin Gonçalves Coelho (RM 559147)
